@@ -7,9 +7,9 @@ A cross-platform mobile admin panel for managing an e-commerce store end-to-end.
 ## Screenshots
 
 <!-- Add your screenshots here -->
-| Dashboard | Orders | Products | Settings |
+| Dashboard | Orders | Products | Edit Product | Statistics |
 |-----------|--------|----------|----------|
-| ![](screenshots/dashboard.png) | ![](screenshots/orders.png) | ![](screenshots/products.png) | ![](screenshots/settings.png) |
+| ![](screenshots/dashboard.png) | ![](screenshots/orders.png) | ![](screenshots/products.png) | ![](screenshots/edit_product.png) | ![](screenshots/statistics.png) | 
 
 ---
 
